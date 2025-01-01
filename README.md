@@ -6,11 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Hibernate, Spring frameworks*
+- 🌱 I’m currently learning *Spring frameworks*
 
-- 💬 Ask me about *Andriod,Reactjs*
+- 💬 Ask me about *Reactjs*
 
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
+
 
 - ⚡ Fun fact *I am Funny😃*
 

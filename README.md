@@ -8,12 +8,12 @@
 
 - 🌱 I’m currently learning *Spring frameworks*
 
-- 💬 Ask me about *Reactjs*
+- 💬 Ask me about *Java , Reactjs* 
 
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
 
 
-- ⚡ Fun fact *I am Funny😃*
+- ⚡ Fun fact *I am Funny 😃*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

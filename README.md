@@ -13,7 +13,7 @@
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
 
 
-- ⚡ Fun fact *I am Funny 😃*
+- ⚡ Fun fact - *Tech additct 😃*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

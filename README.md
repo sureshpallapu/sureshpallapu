@@ -12,6 +12,10 @@
 
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
 
+- - 👨‍💻 All of my projects are available at [https://sureshpallapu.github.io/](https://sureshpallapu.github.io/)
+
+- - 📄 Know about my experiences [https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view](https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view)
+
 
 - ⚡ Fun fact - *Tech additct 😃*
 
@@ -33,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshpallapu&show_icons=true&locale=en" alt="sureshpallapu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshpallapu&" alt="sureshpallapu" /></p>
+
+

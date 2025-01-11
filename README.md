@@ -12,8 +12,7 @@
 - 💬 Ask me about *Java , Reactjs*
 
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
-- 
-
+  
 - - 👨‍💻 All of my projects are available at [https://sureshpallapu.github.io/](https://sureshpallapu.github.io/)
 
 - - 📄 Know about my experiences [https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view](https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view)

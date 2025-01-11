@@ -1,4 +1,5 @@
 <!----[![MasterHead](https://sureshpallapu.io)--->
+
 <h1 align="center">Hi 👋, I'm Pallapu Suresh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/refs/heads/main/coding-freak%20(1).gif">

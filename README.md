@@ -18,7 +18,7 @@
 - - 📄 Know about my experiences [https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view](https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view)
 
 
-- ⚡ Fun fact - *Tech additct 😃*
+- ⚡ Fun fact - *Can write SQL queries in my sleep. Not kidding!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

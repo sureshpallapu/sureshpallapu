@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Spring frameworks*
 
-- 💬 Ask me about *Java *
+- 💬 Ask me about *Java , MySQL *
 
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
   

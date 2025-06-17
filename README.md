@@ -1,7 +1,7 @@
 <!----[![MasterHead](https://sureshpallapu.io)--->
 
 <h1 align="center">Hi 👋, I'm Pallapu Suresh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/refs/heads/main/coding-freak%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruswamy12&label=Profile%20views&color=0e75b6&style=flat" alt="guruswamy12" /> </p>
 

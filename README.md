@@ -1,15 +1,15 @@
 <!----[![MasterHead](https://sureshpallapu.io)--->
 
 <h1 align="center">Hi 👋, I'm Pallapu Suresh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/refs/heads/main/coding-freak%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruswamy12&label=Profile%20views&color=0e75b6&style=flat" alt="guruswamy12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Spring frameworks*
+- 🌱 I’m currently learning *ServiceNow*
 
-- 💬 Ask me about *Java , MySQL *
+- 💬 Ask me about *Java Full Stack Development*
 
 - 📫 How to reach me *pallapusuresh2000@gmail.com*
   

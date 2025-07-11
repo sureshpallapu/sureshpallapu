@@ -12,11 +12,10 @@
 
 - 💬 Ask me about *Java Full Stack Development*
 
-- 📫 How to reach me *pallapusuresh2000@gmail.com*
-  
-- - 👨‍💻 All of my projects are available at [https://sureshpallapu.github.io/](https://sureshpallapu.github.io/)
-
-- - 📄 Know about my experiences [https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view](https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view)
+📫 How to reach me:
+- 📧 Email: pallapusuresh2000@gmail.com
+- 🌐 Portfolio: [sureshpallapu.github.io](https://sureshpallapu.github.io/)
+- 📄 Resume: [Google Drive Resume Link](https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view)
 
 
 - ⚡ Fun fact - *Can write SQL queries in my sleep. Not kidding!*

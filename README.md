@@ -41,3 +41,12 @@ I once tried debugging my own dreams. Sadly, NullPointerException still occurred
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshpallapu&" alt="sureshpallapu" /></p>
 
+🔜 Coming Soon:
+- JavaSecureScanner (Java + SonarQube static analysis)
+- BugPredictorAI (Machine Learning for bug prediction)
+- Weekly blogs on secure Java development
+
+---
+
+📌 Let me know if you'd like a personal portfolio site built using GitHub Pages + React or help writing your first blog post or project documentation.
+

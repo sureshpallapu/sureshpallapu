@@ -17,8 +17,11 @@
 - 🌐 Portfolio: [sureshpallapu.github.io](https://sureshpallapu.github.io/)
 - 📄 Resume: [Google Drive Resume Link](https://drive.google.com/file/d/1yN1mKtZ14Zg1JLj3vAYX1rryol5gp3eR/view)
 
+⚡ Fun fact:
 
-- ⚡ Fun fact - *Can write SQL queries in my sleep. Not kidding!*
+I once tried debugging my own dreams. Sadly, NullPointerException still occurred 😅
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

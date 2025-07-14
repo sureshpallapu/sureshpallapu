@@ -1,16 +1,21 @@
 <!----[![MasterHead](https://sureshpallapu.io)--->
 
 <h1 align="center">Hi 👋, I'm Pallapu Suresh</h1>
-<h3 align="center">A Software Developer from India</h3>
-<h3 align="center">JAVA FUll STACK  | AI + Security Enthusiast | Aspiring PhD Student (2027)</h3>
-<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/refs/heads/main/coding-freak%20(1).gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guruswamy12&label=Profile%20views&color=0e75b6&style=flat" alt="guruswamy12" /> </p>
+<h3 align="center">Java Full Stack Developer | AI + Security Enthusiast | Aspiring PhD Student (2027) | Freelancer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/refs/heads/main/coding-freak%20(1).gif">
 
-- 🌱 I’m currently learning *ServiceNow*
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sureshpallapu&label=Profile+Views&color=0e75b6&style=flat" alt="sureshpallapu" />
+</p>
 
-- 💬 Ask me about *Java Full Stack Development*
+---
+
+- 🌱 I’m currently learning: <strong>ServiceNow & Machine Learning</strong>  
+- 💬 Ask me about: <strong>Java Full Stack Development, Spring Boot, REST APIs</strong>  
+- 🔭 Currently freelancing & working on AI-assisted tools for code analysis  
+- 🎯 Goal: PhD in AI + Software Engineering by 2027  
+
 
 📫 How to reach me:
 - 📧 Email: pallapusuresh2000@gmail.com

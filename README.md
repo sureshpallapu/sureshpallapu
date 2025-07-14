@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning: <strong>ServiceNow & Machine Learning</strong>  
+- 🌱 I’m currently learning: <strong>ServiceNow </strong>  
 - 💬 Ask me about: <strong>Java Full Stack Development, Spring Boot, REST APIs</strong>  
 - 🔭 Currently freelancing & working on AI-assisted tools for code analysis  
 - 🎯 Goal: PhD in AI + Software Engineering by 2027  

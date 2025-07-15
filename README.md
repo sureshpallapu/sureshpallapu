@@ -1,7 +1,7 @@
 <!----[![MasterHead](https://sureshpallapu.io)--->
 
 <h1 align="center">Hi 👋, I'm Pallapu Suresh</h1>
-<h3 align="center">Java Full Stack Developer | AI + Security Enthusiast | Aspiring PhD Student (2027) | Freelancer</h3>
+<h3 align="center">Java Full Stack Developer | AI + Security Enthusiast | Aspiring PhD Student (2027) | Freelancer  </h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/refs/heads/main/coding-freak%20(1).gif">
 
